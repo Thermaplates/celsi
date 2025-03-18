@@ -15,7 +15,7 @@ Aplikasi ini dibuat menggunakan **Flutter** dengan desain yang responsif dan mud
 ## Cara Instalasi
 1. Pastikan **Flutter SDK** sudah terinstal di perangkat.  
 2. Clone repository ini ke komputer:  
-   git clone https://github.com/user/repo-kalkulator.git
+   git clone https://github.com/Rifai-hub24/kalkulator_flutter.git
    cd repo-kalkulator
 3.Jalankan perintah untuk mengunduh dependency:
    flutter pub get
@@ -25,7 +25,7 @@ Aplikasi ini dibuat menggunakan **Flutter** dengan desain yang responsif dan mud
 ## Demo
  https://github.com/user-attachments/assets/eb27c1d6-edad-4523-a915-cbac4896423b
 ## Identitas
- Nama:Muhammad Irfan Rifai
+ Nama:Muhammad Irfan Rifai(21)
  Kelas:XI RPL 2
  Sekolah:SMK N 1 BANTUL
 
