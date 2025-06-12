@@ -1,33 +1,84 @@
-# Kalkulator Flutter
 
-## Deskripsi Aplikasi
-Kalkulator Flutter adalah aplikasi sederhana yang memungkinkan pengguna melakukan perhitungan matematika dasar dengan mudah. Aplikasi ini memiliki fitur:  
-- Operasi matematika dasar (+, -, ×, ÷)  
-- Riwayat perhitungan  
-- Tampilan profil pengguna  
 
-Aplikasi ini dibuat menggunakan **Flutter** dengan desain yang responsif dan mudah digunakan.  
+📱 Kalkulator Flutter
 
-## Software yang Digunakan
-- **Flutter** (Dart)  
-- **Package:** math_expressions  
+📝 Deskripsi Aplikasi
 
-## Cara Instalasi
-1. Pastikan **Flutter SDK** sudah terinstal di perangkat.  
-2. Clone repository ini ke komputer:  
-   git clone https://github.com/Rifai-hub24/kalkulator_flutter.git
-   cd repo-kalkulator
-3.Jalankan perintah untuk mengunduh dependency:
-   flutter pub get
-## Cara Menjalankan
-1.Jalankan aplikasi dengan perintah:
-  flutter run
-## Demo
- https://github.com/user-attachments/assets/eb27c1d6-edad-4523-a915-cbac4896423b
-## Identitas
- Nama:Muhammad Irfan Rifai(21)
- Kelas:XI RPL 2
- Sekolah:SMK N 1 BANTUL
+Kalkulator Flutter adalah aplikasi mobile sederhana yang dirancang menggunakan Flutter. Aplikasi ini memungkinkan pengguna untuk melakukan perhitungan matematika dasar dengan cepat dan efisien. Dengan antarmuka yang intuitif dan desain responsif, pengguna dapat mengoperasikan kalkulator ini dengan nyaman di berbagai ukuran layar.
 
+✨ Fitur Utama
+
+Operasi Matematika Dasar: Penjumlahan (+), Pengurangan (-), Perkalian (×), dan Pembagian (÷).
+
+Riwayat Perhitungan: Menyimpan daftar perhitungan yang telah dilakukan.
+
+Tampilan Profil Pengguna: Menampilkan nama atau identitas pengguna sebagai pelengkap UI.
+
+
+
+---
+
+💻 Teknologi & Library yang Digunakan
+
+Flutter (menggunakan bahasa pemrograman Dart)
+
+Package tambahan:
+
+math_expressions: Digunakan untuk menghitung ekspresi matematika yang kompleks secara efisien.
+
+
+
+
+---
+
+⚙️ Langkah Instalasi
+
+1. Pastikan Flutter SDK telah terinstal pada perangkat Anda. Jika belum, kunjungi: https://flutter.dev/docs/get-started/install
+
+
+2. Clone repository ini ke komputer Anda menggunakan perintah:
+
+git clone https://github.com/Rifai-hub24/kalkulator_flutter.git
+cd kalkulator_flutter
+
+
+3. Unduh semua dependensi yang dibutuhkan:
+
+flutter pub get
+
+
+
+
+---
+
+▶️ Cara Menjalankan Aplikasi
+
+1. Jalankan aplikasi dengan perintah berikut:
+
+flutter run
+
+
+2. Pastikan perangkat emulator atau device fisik Anda sudah terhubung dan dikenali oleh Flutter.
+
+
+
+
+---
+
+🎥 Demo Aplikasi
+
+Lihat demo aplikasi melalui tautan berikut:
+🔗 Tonton Demo
+
+
+---
+
+👤 Identitas Pembuat
+
+Nama: Marchelino I Wayan Saputra
+
+Kelas: XI RPL 2
+
+Sekolah: SMK N 1 Bantul
 
 
