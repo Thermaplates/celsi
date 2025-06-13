@@ -38,7 +38,7 @@ math_expressions: Digunakan untuk menghitung ekspresi matematika yang kompleks s
 
 2. Clone repository ini ke komputer Anda menggunakan perintah:
 
-git clone https://github.com/Rifai-hub24/kalkulator_flutter.git](https://github.com/Thermaplates/celsi
+git clone https://github.com/Thermaplates/celsi
 cd kalkulator_flutter
 
 
