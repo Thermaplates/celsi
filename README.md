@@ -68,7 +68,7 @@ flutter run
 🎥 Demo Aplikasi
 
 Lihat demo aplikasi melalui tautan berikut:
-🔗 Tonton Demo
+
 
 
 
